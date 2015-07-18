@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<section><sectionTitle>Titulo alterado</sectionTitle>
+<sectionEnunciation>Pequeno texto que explica a forma de resolver o exercício.</sectionEnunciation>
+<contentTwoColumns><itemOne>pet <translation>| cachorro, cão</translation></itemOne>
+<itemTwo>cat <translation>| gato</translation></itemTwo>
+<itemThree>dog <translation>| cachorro, cão</translation></itemThree>
+<itemTwo>cat <translation>| gato</translation></itemTwo></contentTwoColumns>
+<sectionTitle>Titulo do Assunto Seção 2</sectionTitle>
+<sectionEnunciation>Podemos colocar instruções ou os objetivos de aprendizagem desta seção.</sectionEnunciation>
+<contentThreeColumns><itemOne>duck <translation>| pato</translation></itemOne>
+<itemTwo>cat <translation>| gato</translation></itemTwo>
+<itemThree>dog <translation>| cachorro, cão</translation></itemThree>
+<itemFour>cat <translation>| gato</translation></itemFour>
+<itemFive>dog <translation>| cachorro, cão</translation></itemFive>
+<itemSix>cat <translation>| gato</translation></itemSix></contentThreeColumns>
+<sectionTitle>Titulo do Assunto Seção 3</sectionTitle>
+<sectionEnunciation>Podemos colocar instruções ou os objetivos de aprendizagem desta seção.</sectionEnunciation>
+<numeredList><itemOne>duck <translation>| pato</translation></itemOne>
+<itemTwo>cat <translation>| gato</translation></itemTwo>
+<itemThree>dog <translation>| cachorro, cão</translation></itemThree>
+<itemFour>cat <translation>| gato</translation></itemFour>
+<itemFive>dog <translation>| cachorro, cão</translation></itemFive>
+<itemSix>cat <translation>| gato</translation></itemSix>
+<itemSeven>duck <translation>| pato</translation></itemSeven>
+<itemEight>cat <translation>| gato</translation></itemEight>
+<itemNine>dog <translation>| cachorro, cão</translation></itemNine>
+<itemTen>cat <translation>| gato</translation></itemTen></numeredList></section>
+<section><sectionTitle>Titulo do Assunto da página Ímpar</sectionTitle>
+<sectionEnunciation>Pequeno texto que explica a forma de resolver o exercício.</sectionEnunciation>
+<contentTwoColumns><itemOne>dog <translation>| cachorro, cão</translation></itemOne>
+<itemTwo>cat <translation>| gato</translation></itemTwo>
+<itemThree>dog <translation>| cachorro, cão</translation></itemThree>
+<itemTwo>cat <translation>| gato</translation></itemTwo></contentTwoColumns>
+<sectionTitle>Titulo do Assunto Seção 2</sectionTitle>
+<sectionEnunciation>Podemos colocar instruções ou os objetivos de aprendizagem desta seção.</sectionEnunciation>
+<contentThreeColumns><itemOne>duck <translation>| pato</translation></itemOne>
+<itemTwo>cat <translation>| gato</translation></itemTwo>
+<itemThree>dog <translation>| cachorro, cão</translation></itemThree>
+<itemFour>cat <translation>| gato</translation></itemFour>
+<itemFive>dog <translation>| cachorro, cão</translation></itemFive>
+<itemSix>cat <translation>| gato</translation></itemSix></contentThreeColumns>
+<sectionTitle>Titulo do Assunto Seção 3</sectionTitle>
+<sectionEnunciation>Podemos colocar instruções ou os objetivos de aprendizagem desta seção.</sectionEnunciation>
+<numeredList><itemOne>duck <translation>| pato</translation></itemOne>
+<itemTwo>cat <translation>| gato</translation></itemTwo>
+<itemThree>dog <translation>| cachorro, cão</translation></itemThree>
+<itemFour>cat <translation>| gato</translation></itemFour>
+<itemFive>dog <translation>| cachorro, cão</translation></itemFive>
+<itemSix>cat <translation>| gato</translation></itemSix>
+<itemSeven>duck <translation>| pato</translation></itemSeven>
+<itemEight>cat <translation>| gato</translation></itemEight>
+<itemNine>dog <translation>| cachorro, cão</translation></itemNine>
+<itemTen>cat <translation>| gato</translation></itemTen></numeredList></section></dataroot>

@@ -2269,7 +2269,7 @@ label {
 .book-area {
     margin:60px 50px 30px 80px;
     height: 1008px;
-    background-color: #fcfcfc;
+    
 }
 #droppable {
     height: 70px;
@@ -2280,7 +2280,7 @@ label {
     padding: 10px 0;
 }
     #listarea, #textareaexer2 {
-        height:500px;
+        height:400px;
         margin-top: 30px;
     }
 #tituloexer, #tituloexer2 {
@@ -2290,6 +2290,9 @@ label {
     #tituloarea, #tituloarea2 {
     font-size: 36px;
     font-weight: bolder;
+    height: 50px;
+    display: block;
+    background-color: #fcfcfc;
 }
 a.logo img {
     height:20px;

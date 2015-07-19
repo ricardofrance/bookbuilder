@@ -2255,7 +2255,7 @@ label {
     background-color:#ffffff;
     display: block;
     border: 1px solid #333333;
-    height: 1200px;
+    height: 895px;
     width: 90%;
     margin:20px auto;
 }
@@ -2267,8 +2267,8 @@ label {
     border-bottom:15px solid #eacdde;
 }
 .book-area {
-    margin:60px 50px 30px 80px;
-    height: 1008px;
+    margin:35px 50px 30px 80px;
+    height: 728px;
     
 }
 #droppable {
@@ -2279,8 +2279,12 @@ label {
     height:35px;
     padding: 10px 0;
 }
-    #listarea, #textareaexer2 {
-        height:400px;
+    #listarea {
+        height:350px;
+        margin-top: 30px;
+    }
+    #textareaexer2 {
+        height:230px;
         margin-top: 30px;
     }
 #tituloexer, #tituloexer2 {
